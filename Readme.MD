@@ -2,7 +2,7 @@
 
 This repository will be used to demonstrate **Markdown Language** and its different _styling formats_
 
-this is a git command to view status `git status`. is will show all changes
+this is a git command to view status `git status`. ~~is~~ it will show all changes
 
 > Below are some of the commands
 
