@@ -14,7 +14,7 @@ this is a git command to view status `git status`. is will show all changes
   - git reset --hard commitHead
   - git checkout commitHead (_for single file reset_)
 
-click to know more about [Git](www.git.com)
+click to know more about [Git](www.github.com)
 
 below are some of the things completed
 - [x] Git commit changes
