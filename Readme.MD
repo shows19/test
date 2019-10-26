@@ -6,8 +6,10 @@ this is a git command to view status `git status`. is will show all changes
 
 > Below are some of the commands
 
-- git status
-- git log
+```
+git status
+git log
+```
 - Reset
   - git reset
   - git reset --hard
