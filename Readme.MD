@@ -17,15 +17,15 @@ this is a git command to view status `git status`. is will show all changes
 click to know more about [Git](www.git.com)
 
 below are some of the things completed
-[x] Git commit changes
-[x] Git review log history
-[x] Git branches
-[x] Git merge
-[x] Git rebase
-[x] Git remote repository
-[x] Git clone
-[x] Git undo changes
-[x] Github
-[x] Github forking
-[x] Markdown language
-[ ] Javascript
+- [x] Git commit changes
+- [x] Git review log history
+- [x] Git branches
+- [x] Git merge
+- [x] Git rebase
+- [x] Git remote repository
+- [x] Git clone
+- [x] Git undo changes
+- [x] Github
+- [x] Github forking
+- [x] Markdown language
+- [ ] Javascript
